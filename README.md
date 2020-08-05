@@ -36,9 +36,9 @@ To further evaluate, we then plotted confusion matrices for Gaussian Naive Bayes
 <img src="https://github.com/amythemirror/Springboard-Capstone-Two/blob/master/README%20files/naive%20bayes%20confusion%20matrix.png">
 
 ## [Modeling - Regression Model](https://github.com/amythemirror/Springboard-Capstone-Two/blob/master/Modeling%20-%20Regression%20Model.ipynb)
-We used *[lifetimes](https://lifetimes.readthedocs.io/en/latest/index.html)* to build:
-* A BG/NBD model to predict the number of repeat purchases for each customer
-* A Gamma-Gamma submodel to predict the average order value in the future for each customer
+We used *[lifetimes](https://lifetimes.readthedocs.io/en/latest/index.html)* to build two models. These two models together allowed us to predict customer LTVs from transactional data:
+* BG/NBD model to predict the number of repeat purchases for each customer
+* Gamma-Gamma submodel to predict the average order value in the future for each customer
 
 Judging from the distribution of the predicted customer LTVs vs that of the actual values, the model underpredicted the occurrences of the lower customer LTVs while following the remaining structure of the data:
 
