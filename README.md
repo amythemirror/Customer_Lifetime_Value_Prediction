@@ -27,6 +27,8 @@ The box plots of customer LTVs for the top 10 countries where customers reside, 
 We did both bootstrapping and t-test for the hypothesis testing. Neither of their p-values was statistically significant to reject the null hypothesis, using 0.05 as the significance level α.
 
 ## [Modeling - Classification Model](https://github.com/amythemirror/Springboard-Capstone-Two/blob/master/Modeling%20-%20Classification%20Model.ipynb)
+The feature engineering for classification models can be found on a seperate notebook [here](https://github.com/amythemirror/Springboard-Capstone-Two/blob/master/Feature%20Engineering%20-%20Classification%20Model.ipynb).
+
 We evaluated six classification algorithms. Since the dataset was imbalanced, we compared the models using the balanced accuracy, as well as the macro-averaged precision, recall, and F1 scores.
 
 <img src="https://github.com/amythemirror/Springboard-Capstone-Two/blob/master/README%20files/model%20performance%20table.PNG">
