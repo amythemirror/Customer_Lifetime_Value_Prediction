@@ -7,7 +7,7 @@ provides crucial guidance for customer acquisition initiatives and even overall 
 Our goal for this project is to build a supervised classification machine learning model and a regression machine learning model to predict existing customers’ lifetime value based on their online shopping transactional data.
 
 ## [Data Wrangling](https://github.com/amythemirror/Springboard-Capstone-Two/blob/master/Data%20Wrangling.ipynb)
-The dataset was retrieved from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II). It contains all the transactions occurred between 01/12/2009 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+The dataset was retrieved from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II). It contains all the transactions occurred between 12/01/2009 and 12/09/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 Some major data wrangling steps including:
 * **Removing duplicates and missing values** - Rows with missing customer ID were removed since we did not have the information required to fill in the missing value.
