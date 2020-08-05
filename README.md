@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/amythemirror/Springboard-Capstone-Two/master/README%20files/customer%20lifetime%20value.png" width=80%>
 
 # Customer Lifetime Value Prediction
-Customer Lifetime Value (CLV) is the total worth to a business of a customer over the whole period of their relationship. It is one of the most important marketing metrics as it
+Customer Lifetime Value (LTV) is the total worth to a business of a customer over the whole period of their relationship. It is one of the most important marketing metrics as it
 provides crucial guidance for customer acquisition initiatives and even overall marketing strategies.
 
 Our goal for this project is to build a supervised classification machine learning model and a regression machine learning model to predict existing customers’ lifetime value based on their online shopping transactional data.
