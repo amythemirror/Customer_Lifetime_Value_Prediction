@@ -4,7 +4,7 @@
 Customer Lifetime Value (LTV) is the total worth to a business of a customer over the whole period of their relationship. It is one of the most important marketing metrics as it
 provides crucial guidance for customer acquisition initiatives and even overall marketing strategies.
 
-Our goal for this project is to build a supervised classification machine learning model and a regression machine learning model to predict existing customers’ lifetime value based on their online shopping transactional data.
+Our goal for this project is to build a supervised classification machine learning model and a regression machine learning model to predict existing customers’ lifetime values based on their shopping behavior.
 
 ## [Data Wrangling](https://github.com/amythemirror/Springboard-Capstone-Two/blob/master/Data%20Wrangling.ipynb)
 The dataset was retrieved from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II). It contains all the transactions occurred between 12/01/2009 and 12/09/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
