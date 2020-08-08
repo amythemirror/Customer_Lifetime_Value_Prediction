@@ -47,5 +47,3 @@ Judging from the distribution of the predicted customer LTVs vs that of the actu
 <img src="https://github.com/amythemirror/Springboard-Capstone-Two/blob/master/README%20files/histogram%20of%20predicted%20vs%20actual%20customer%20ltvs.png">
 
 The model was able to capture the majority of the top 10 most valued customers, and only mispredicted 2 customers:
-
-<img src="https://github.com/amythemirror/Springboard-Capstone-Two/blob/master/README%20files/top%2010.PNG">
